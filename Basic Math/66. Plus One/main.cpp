@@ -20,13 +20,14 @@ public:
         
         reverse(digits.begin(), digits.end());
         
-        int remainder = 0;
-        
+        int remainder = (digits[0] + 1) / 10;
+        digits[0] = (1 + digits[0]) % 10;
+
         // Deals with the case where I'm going to have to carry over a remainder 
-        for (int i = 0; i < digits.size(); i++)
+        for (int i = 1; i < digits.size(); i++)
         {
-            int newRemainder = (digits[i] + remainder + 1) % 10;        
-            digits[i] = (digits[i] + remainder + 1) % 10;
+            int newRemainder = (digits[i] + remainder) / 10;
+            digits[i] = (digits[i] + remainder) % 10;
             remainder = newRemainder; 
         }
         
