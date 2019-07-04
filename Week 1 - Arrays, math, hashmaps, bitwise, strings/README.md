@@ -21,39 +21,39 @@ After solving (or giving up on) a problem – take notes. Record what your think
 ## Coding exercises
 
 ### Arrays:
-- [x] [Sort Array by parity](https://leetcode.com/problems/sort-array-by-parity) [Solution]()
-- [x] [Transpose Matrix](https://leetcode.com/problems/transpose-matrix) [Solution]()
-- [x] [Flipping an image](https://leetcode.com/problems/flipping-an-image) [Solution]()
+- [x] [Sort Array by parity](https://leetcode.com/problems/sort-array-by-parity) [(Solution)](https://github.com/amarsgithub/Wallbreakers/blob/master/Week%201%20-%20Arrays%2C%20math%2C%20hashmaps%2C%20bitwise%2C%20strings/905.%20Sort%20Array%20by%20Parity/main.cpp)
+- [x] [Transpose Matrix](https://leetcode.com/problems/transpose-matrix) [(Solution)](https://github.com/amarsgithub/Wallbreakers/blob/master/Week%201%20-%20Arrays%2C%20math%2C%20hashmaps%2C%20bitwise%2C%20strings/867.%20Transpose%20Matrix/main.cpp)
+- [x] [Flipping an image](https://leetcode.com/problems/flipping-an-image) [(Solution)](https://github.com/amarsgithub/Wallbreakers/blob/master/Week%201%20-%20Arrays%2C%20math%2C%20hashmaps%2C%20bitwise%2C%20strings/832.%20Flipping%20an%20Image/main.cpp)
 
 ### Basic math:
-- [x] [Self Diving Numbers](https://leetcode.com/problems/self-dividing-numbers) [Solution]()
-- [x] [FizzBuzz](https://leetcode.com/problems/fizz-buzz) [Solution]()
-- [x] [Plus One](https://leetcode.com/problems/plus-one) [Solution]()
-- [ ] [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number) [Solution]()
-- [x] [Power of two](https://leetcode.com/problems/power-of-two) [Solution]()
+- [x] [Self Diving Numbers](https://leetcode.com/problems/self-dividing-numbers) [(Solution)](https://github.com/amarsgithub/Wallbreakers/blob/master/Week%201%20-%20Arrays%2C%20math%2C%20hashmaps%2C%20bitwise%2C%20strings/728.%20Self%20Dividing%20Numbers/main.cpp)
+- [x] [FizzBuzz](https://leetcode.com/problems/fizz-buzz) [(Solution)](https://github.com/amarsgithub/Wallbreakers/blob/master/Week%201%20-%20Arrays%2C%20math%2C%20hashmaps%2C%20bitwise%2C%20strings/412.%20Fizz%20Buzz/main.cpp)
+- [x] [Plus One](https://leetcode.com/problems/plus-one) [(Solution)](https://github.com/amarsgithub/Wallbreakers/blob/master/Week%201%20-%20Arrays%2C%20math%2C%20hashmaps%2C%20bitwise%2C%20strings/66.%20Plus%20One/main.cpp)
+- [ ] [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number) 
+- [x] [Power of two](https://leetcode.com/problems/power-of-two) [(Solution)](https://github.com/amarsgithub/Wallbreakers/blob/master/Week%201%20-%20Arrays%2C%20math%2C%20hashmaps%2C%20bitwise%2C%20strings/231.%20Power%20of%20Two/main.cpp)
 
 ### Simple string manipulation:
-- [x] [Reverse String](https://leetcode.com/problems/reverse-string) [Solution]()
-- [x] [Detect Capital](https://leetcode.com/problems/detect-capital) [Solution]()
-- [ ] [Reverse words in a string III](https://leetcode.com/problems/reverse-words-in-a-string-iii) [Solution]()
-- [ ] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) [Solution]()
-- [x] [Reverse vowels in a string](https://leetcode.com/problems/reverse-vowels-of-a-string) [Solution]()
-- [x] [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix) [Solution]()
+- [x] [Reverse String](https://leetcode.com/problems/reverse-string) [(Solution)](https://github.com/amarsgithub/Wallbreakers/blob/master/Week%201%20-%20Arrays%2C%20math%2C%20hashmaps%2C%20bitwise%2C%20strings/344.%20Reverse%20String/main.cpp)
+- [x] [Detect Capital](https://leetcode.com/problems/detect-capital) [(Solution)](https://github.com/amarsgithub/Wallbreakers/blob/master/Week%201%20-%20Arrays%2C%20math%2C%20hashmaps%2C%20bitwise%2C%20strings/520.%20Detect%20Capital/main.cpp)
+- [ ] [Reverse words in a string III](https://leetcode.com/problems/reverse-words-in-a-string-iii) 
+- [ ] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) 
+- [x] [Reverse vowels in a string](https://leetcode.com/problems/reverse-vowels-of-a-string) [(Solution)](https://github.com/amarsgithub/Wallbreakers/blob/master/Week%201%20-%20Arrays%2C%20math%2C%20hashmaps%2C%20bitwise%2C%20strings/345.%20Reverse%20Vowels%20in%20a%20String/main.cpp)
+- [x] [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix) [(Solution)](https://github.com/amarsgithub/Wallbreakers/blob/master/Week%201%20-%20Arrays%2C%20math%2C%20hashmaps%2C%20bitwise%2C%20strings/14.%20Longest%20Common%20Prefix/main.cpp)
 
 ### Simple bitwise manipulation:
-- [ ] [Number Complement](https://leetcode.com/problems/number-complement) [Solution]()
-- [x] [Hamming distance](https://leetcode.com/problems/hamming-distance/) [Solution]()
-- [ ] [Binary gap](https://leetcode.com/problems/binary-gap) [Solution]()
-- [ ] [Single number](https://leetcode.com/problems/single-number) [Solution]()
+- [ ] [Number Complement](https://leetcode.com/problems/number-complement) 
+- [x] [Hamming distance](https://leetcode.com/problems/hamming-distance/) [(Solution)](https://github.com/amarsgithub/Wallbreakers/blob/master/Week%201%20-%20Arrays%2C%20math%2C%20hashmaps%2C%20bitwise%2C%20strings/461.%20Hamming%20Distance/main.cpp)
+- [ ] [Binary gap](https://leetcode.com/problems/binary-gap) 
+- [ ] [Single number](https://leetcode.com/problems/single-number) 
 
 ### Hashmaps and sets:
-- [x] [Two Sum](https://leetcode.com/problems/two-sum/) [Solution]()
-- [x] [Valid Anagram](https://leetcode.com/problems/valid-anagram/) [Solution]()
+- [x] [Two Sum](https://leetcode.com/problems/two-sum/) [(Solution)](https://github.com/amarsgithub/Wallbreakers/blob/master/Week%201%20-%20Arrays%2C%20math%2C%20hashmaps%2C%20bitwise%2C%20strings/1.%20Two%20Sum/main.cpp)
+- [x] [Valid Anagram](https://leetcode.com/problems/valid-anagram/) [(Solution)](https://github.com/amarsgithub/Wallbreakers/blob/master/Week%201%20-%20Arrays%2C%20math%2C%20hashmaps%2C%20bitwise%2C%20strings/242.%20Valid%20Anagram/main.cpp)
 
 ### Union find:
-- [ ] [Friend Circles](https://leetcode.com/problems/friend-circles) [Solution]()
-- [ ] [Number of islands](https://leetcode.com/problems/number-of-islands) [Solution]()
-- [ ] [Surrounded regions](https://leetcode.com/problems/surrounded-regions) [Solution]()
+- [ ] [Friend Circles](https://leetcode.com/problems/friend-circles) 
+- [ ] [Number of islands](https://leetcode.com/problems/number-of-islands) 
+- [ ] [Surrounded regions](https://leetcode.com/problems/surrounded-regions) 
 
 Resources
 * [Python starting point](https://www.learnpython.org/)
