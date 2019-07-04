@@ -11,14 +11,14 @@ Hash maps and hash sets are arguably the most important data structures you will
 ## Coding Exercises
 
 ### Hash maps and hash sets
-- [x] [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) [(Solution)]()
-- [x] [Unique morse code words](https://leetcode.com/problems/unique-morse-code-words/) [(Solution)]()
-- [x] [Happy number](https://leetcode.com/problems/happy-number/) [(Solution)]()
-- [x] [Uncommon words from two sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/) [(Solution)]()
-- [x] [Distribute candies](https://leetcode.com/problems/distribute-candies/) [(Solution)]()
+- [x] [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) [(Solution)](https://github.com/amarsgithub/Wallbreakers/blob/master/Week%202%20-%20hashmaps%2C%20sets%2C%20multisets%2C%20tries/771.%20Jewels%20and%20Stones/main.cpp)
+- [x] [Unique morse code words](https://leetcode.com/problems/unique-morse-code-words/) [(Solution)](https://github.com/amarsgithub/Wallbreakers/blob/master/Week%202%20-%20hashmaps%2C%20sets%2C%20multisets%2C%20tries/804.%20Unique%20Morse%20Code%20Words/main.cpp)
+- [x] [Happy number](https://leetcode.com/problems/happy-number/) [(Solution)](https://github.com/amarsgithub/Wallbreakers/blob/master/Week%202%20-%20hashmaps%2C%20sets%2C%20multisets%2C%20tries/202.%20Happy%20Number/main.cpp)
+- [x] [Uncommon words from two sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/) [(Solution)](https://github.com/amarsgithub/Wallbreakers/blob/master/Week%202%20-%20hashmaps%2C%20sets%2C%20multisets%2C%20tries/884.%20Uncommon%20words%20from%20two%20sentences/main.cpp)
+- [x] [Distribute candies](https://leetcode.com/problems/distribute-candies/) [(Solution)](https://github.com/amarsgithub/Wallbreakers/blob/master/Week%202%20-%20hashmaps%2C%20sets%2C%20multisets%2C%20tries/575.%20Distribute%20Candies/main.cpp)
 - [ ] [Group of special equivalent strings](https://leetcode.com/problems/groups-of-special-equivalent-strings/)
-- [x] [Intersection of two strings ](https://leetcode.com/problems/intersection-of-two-arrays/) [(Solution)]()
-- [x] [Valid sudoku](https://leetcode.com/problems/valid-sudoku/) [(Solution)]()
+- [x] [Intersection of two arrays](https://leetcode.com/problems/intersection-of-two-arrays/) [(Solution)](https://github.com/amarsgithub/Wallbreakers/blob/master/Week%202%20-%20hashmaps%2C%20sets%2C%20multisets%2C%20tries/349.%20Intersection%20of%20Two%20Arrays/main.cpp)
+- [x] [Valid sudoku](https://leetcode.com/problems/valid-sudoku/) [(Solution)](https://github.com/amarsgithub/Wallbreakers/blob/master/Week%202%20-%20hashmaps%2C%20sets%2C%20multisets%2C%20tries/36.%20Valid%20Sudoku/main.cpp)
 - [ ] [Isomorphic strings](https://leetcode.com/problems/isomorphic-strings/)
 - [ ] [Word pattern](https://leetcode.com/problems/word-pattern/)
 - [ ] [Design hashmap](https://leetcode.com/problems/design-hashmap/)
