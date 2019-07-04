@@ -29,31 +29,31 @@ After solving (or giving up on) a problem – take notes. Record what your think
 - [x] [Self Diving Numbers](https://leetcode.com/problems/self-dividing-numbers) [Solution]()
 - [x] [FizzBuzz](https://leetcode.com/problems/fizz-buzz) [Solution]()
 - [x] [Plus One](https://leetcode.com/problems/plus-one) [Solution]()
-- [] [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number) [Solution]()
+- [ ] [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number) [Solution]()
 - [x] [Power of two](https://leetcode.com/problems/power-of-two) [Solution]()
 
 ### Simple string manipulation:
 - [x] [Reverse String](https://leetcode.com/problems/reverse-string) [Solution]()
 - [x] [Detect Capital](https://leetcode.com/problems/detect-capital) [Solution]()
-- [] [Reverse words in a string III](https://leetcode.com/problems/reverse-words-in-a-string-iii) [Solution]()
-- [] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) [Solution]()
+- [ ] [Reverse words in a string III](https://leetcode.com/problems/reverse-words-in-a-string-iii) [Solution]()
+- [ ] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) [Solution]()
 - [x] [Reverse vowels in a string](https://leetcode.com/problems/reverse-vowels-of-a-string) [Solution]()
 - [x] [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix) [Solution]()
 
 ### Simple bitwise manipulation:
-- [] [Number Complement](https://leetcode.com/problems/number-complement) [Solution]()
+- [ ] [Number Complement](https://leetcode.com/problems/number-complement) [Solution]()
 - [x] [Hamming distance](https://leetcode.com/problems/hamming-distance/) [Solution]()
-- [] [Binary gap](https://leetcode.com/problems/binary-gap) [Solution]()
-- [] [Single number](https://leetcode.com/problems/single-number) [Solution]()
+- [ ] [Binary gap](https://leetcode.com/problems/binary-gap) [Solution]()
+- [ ] [Single number](https://leetcode.com/problems/single-number) [Solution]()
 
 ### Hashmaps and sets:
 - [x] [Two Sum](https://leetcode.com/problems/two-sum/) [Solution]()
 - [x] [Valid Anagram](https://leetcode.com/problems/valid-anagram/) [Solution]()
 
 ### Union find:
-- [] [Friend Circles](https://leetcode.com/problems/friend-circles) [Solution]()
-- [] [Number of islands](https://leetcode.com/problems/number-of-islands) [Solution]()
-- [] [Surrounded regions](https://leetcode.com/problems/surrounded-regions) [Solution]()
+- [ ] [Friend Circles](https://leetcode.com/problems/friend-circles) [Solution]()
+- [ ] [Number of islands](https://leetcode.com/problems/number-of-islands) [Solution]()
+- [ ] [Surrounded regions](https://leetcode.com/problems/surrounded-regions) [Solution]()
 
 Resources
 * [Python starting point](https://www.learnpython.org/)
