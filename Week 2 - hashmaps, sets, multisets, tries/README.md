@@ -20,7 +20,7 @@ Hash maps and hash sets are arguably the most important data structures you will
 - [x] [Intersection of two arrays](https://leetcode.com/problems/intersection-of-two-arrays/) [(Solution)](https://github.com/amarsgithub/Wallbreakers/blob/master/Week%202%20-%20hashmaps%2C%20sets%2C%20multisets%2C%20tries/349.%20Intersection%20of%20Two%20Arrays/main.cpp)
 - [x] [Valid sudoku](https://leetcode.com/problems/valid-sudoku/) [(Solution)](https://github.com/amarsgithub/Wallbreakers/blob/master/Week%202%20-%20hashmaps%2C%20sets%2C%20multisets%2C%20tries/36.%20Valid%20Sudoku/main.cpp)
 - [x] [Isomorphic strings](https://leetcode.com/problems/isomorphic-strings/)
-- [ ] [Word pattern](https://leetcode.com/problems/word-pattern/)
+- [x] [Word pattern](https://leetcode.com/problems/word-pattern/)
 - [ ] [Design hashmap](https://leetcode.com/problems/design-hashmap/)
 - [ ] [Design hashset](https://leetcode.com/problems/design-hashset/)
 
