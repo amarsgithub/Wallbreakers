@@ -1,12 +1,10 @@
 # Wallbreakers Week #3
 
-
 ## Goals For This Week
 By the end of this week,  you should feel confident in noticing when greedy algorithms, recursion and memoization, or dynamic programming are applicable strategies to solving problems. By the end of this week you should be able to feel comfortable implementing those strategies in your language of choice. We will also spend some time on sorting and search (binary searching in particular) to make sure you know when and how to use them.
 
 ## Week 3 Checklist
 - [ ] Solve as many of the problems listed below as you can by EOD Sunday.
-
 - [ ] Complete the weekly progress report form by EOD Sunday.
 
 ## Week #3 Coding Exercises
@@ -14,9 +12,9 @@ Problems are grouped by applicable problem solving strategy here. Within each gr
 
 
 ### Greedy algorithms
-- [ ] [Lemonade change](https://leetcode.com/problems/lemonade-change)
-- [ ] [Assign Cookies](https://leetcode.com/problems/assign-cookies)
-- [ ] [Is subsequence](https://leetcode.com/problems/is-subsequence)
+- [x] [Lemonade change](https://leetcode.com/problems/lemonade-change) [(Solution)](https://github.com/amarsgithub/Wallbreakers/blob/master/Week%203%20-%20Greedy%2C%20binary%20search%2C%20sorting%2C%20recursion%20and%20memo%2C%20DP/455.%20Assign%20cookies/main.cpp)
+- [x] [Assign Cookies](https://leetcode.com/problems/assign-cookies) [(Solution)](https://github.com/amarsgithub/Wallbreakers/blob/master/Week%203%20-%20Greedy%2C%20binary%20search%2C%20sorting%2C%20recursion%20and%20memo%2C%20DP/860.%20Lemonade%20Change/main.cpp)
+- [x] [Is subsequence](https://leetcode.com/problems/is-subsequence)
 - [ ] [Minimum number of arrows to burst balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons)
 - [ ] [Partition labels](https://leetcode.com/problems/partition-labels)
 
