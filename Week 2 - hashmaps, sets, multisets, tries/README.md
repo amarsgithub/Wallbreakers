@@ -27,7 +27,7 @@ Hash maps and hash sets are arguably the most important data structures you will
 ### Multisets
 - [ ] [Find all anagrams in a string](https://leetcode.com/problems/find-all-anagrams-in-a-string/)
     - Use a multiset for this one. You can also solve it without using one. How? Try to solve it both ways. How do the two solutions compare?
-- [ ] [Find all unique characters in a string](https://leetcode.com/problems/first-unique-character-in-a-string/)
+- [x] [Find all unique characters in a string](https://leetcode.com/problems/first-unique-character-in-a-string/)
 - [ ] [Subdomain visit count](https://leetcode.com/problems/subdomain-visit-count/)
 - [ ] [Find the difference](https://leetcode.com/problems/find-the-difference/)
 - [ ] [Most common word](https://leetcode.com/problems/most-common-word/)
